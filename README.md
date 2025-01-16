@@ -1,4 +1,4 @@
-Welcome to my Data Cleaning Repository! 
+#Data Cleaning Repository! 
 
 Each folder contains:
 
@@ -18,7 +18,7 @@ Each folder contains:
   - *Example: `data_cleaned1.csv`*
 
 
-## Dependencies
+### Dependencies
 
 - Python 3.x
 - pandas
